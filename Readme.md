@@ -1,9 +1,9 @@
 # a Simple Neural Network Project
 this project implements a simple neural network 
 it consists of:
-**input layer**:takes the feature matrix.
-**hidden layer**: processes features using weights and biases , followed by an activation function.
-**output layer**: produces the final prediction.
+- **input layer**:takes the feature matrix.
+- **hidden layer**: processes features using weights and biases , followed by an activation function.
+- **output layer**: produces the final prediction.
 
 ## Features
 - uses classes and objects for organizing the project.
